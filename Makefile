@@ -1,7 +1,4 @@
-all: dict_tree dict_tree_full
-
-dict_tree_full: dict_tree_full.c
-	$(CC) -Wall -g -o $@ $< -lm
+all: dict_tree
 
 dict_tree: dict_tree.c
 	$(CC) -Wall -g -o $@ $< -lm
