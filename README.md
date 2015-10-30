@@ -137,8 +137,8 @@ This creates a file containing 1M random integers, runs the program,
 and reports that the program took 1.78 seconds to execute.
 
 Next, you should measure the runtime of your program for N=100, N=200,
-etc. up to N=1M and sequential percentages of 0%, 25%, 50%, 75%, and
-100%.
+etc. up to N=1M and sequential percentages of 0%, 25%, 50%, 75%, 90%,
+and 100%.
 
 # What to turn in
 You are required to submit your code, along with a report, **including
